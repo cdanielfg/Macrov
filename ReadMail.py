@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 #https://blog.mailtrap.io/send-emails-with-gmail-api/#Step_9_Read_a_specific_email_from_your_inbox
+#Sin atributos de calidad
+#No revisa la estructura de excel
 """
 Created on Sat Aug 22 18:04:20 2020
 
